@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocviet24/NodeJS_blog.git"
+  },
+  "keywords": [
+    "nishikatakagi",
+    "blog",
+    "first",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "nishikatakagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocviet24/NodeJS_blog/issues"
+  },
+  "homepage": "https://github.com/quocviet24/NodeJS_blog#readme",
+  "description": "this is my first nodejs",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
